@@ -10,5 +10,6 @@
     </parent>
 
     <artifactId>module-numbers</artifactId>
+    <packaging>jar</packaging>     
 
 </project>
