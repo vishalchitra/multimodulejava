@@ -10,9 +10,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>maven-jacoco-multi-module-demo-numbers</module>
-        <module>maven-jacoco-multi-module-demo-strings</module>
-        <module>maven-jacoco-multi-module-demo-reports</module>
+        <module>module-numbers</module>
+        <module>module-strings</module>
+        <module>common-reports</module>
     </modules>
 
     <properties>
