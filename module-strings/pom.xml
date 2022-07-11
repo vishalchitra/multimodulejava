@@ -10,5 +10,5 @@
     </parent>
 
     <artifactId>module-strings</artifactId>
-
+    <packaging>jar</packaging> 
 </project>
